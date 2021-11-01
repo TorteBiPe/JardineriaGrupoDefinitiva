@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Jardineria Grupo";
+}
+
+<div class="jumbotron" style="background-image: url('@Url.Content("./Images/jardinperfecto.jpg")');">
+    <h1 class="text-light">Jardineria del Grupo en ASP.NET</h1>
+    <p class="text-light lead">Jardin botanico del Grupo</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Productos</h2>
+        <p>
+            <a class="btn btn-default" href="@Url.Action("Index","Product")">
+                <img src="./Images/cesped.jpg" alt="Productos" width="128" height="128" />
+                Ir a Productos &raquo;
+            </a>
+        </p>
+
+    </div>
+    <div class="col-md-4">
+        <h2>Gamas de Productos</h2>
+        <p>
+            <a class="btn btn-default" href="@Url.Action("Index","GamaProduct")">
+                <img src="./Images/hierbitas.jpg" alt="Gamas" width="128" height="128" />
+                Ir a Gamas &raquo;
+            </a>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Iniciar sesión</h2>
+        <p>
+            <a class="btn btn-default" href="@Url.Action("Login", "Home")">
+                <img src="./Images/login.png" alt="Identificaci&oacute;n" width="128" height="128" />
+                Ir a identificaci&oacute;n &raquo;
+            </a>
+    </div>
+
+</div>

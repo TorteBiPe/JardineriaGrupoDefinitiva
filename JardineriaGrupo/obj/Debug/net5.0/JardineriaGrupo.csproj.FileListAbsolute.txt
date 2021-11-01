@@ -1,0 +1,989 @@
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.Development.json
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.json
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.StaticWebAssets.xml
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.exe
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.deps.json
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.json
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.dev.json
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ref\JardineriaGrupo.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Humanizer.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.CodeDom.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.AssemblyReference.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.GeneratedMSBuildEditorConfig.editorconfig
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfoInputs.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfo.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CoreCompileInputs.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.Manifest.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.xml
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\scopedcss\bundle\JardineriaGrupo.styles.css
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.input.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.output.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorCoreGenerate.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.Views.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CopyComplete
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\ref\JardineriaGrupo.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.pdb
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.genruntimeconfig.cache
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Create.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Delete.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Details.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Edit.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Index.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+F:\2º DAWA 2\DSW\1 Trimestre\Ejercicios DSW\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.Development.json
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.json
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.StaticWebAssets.xml
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.exe
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.deps.json
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.json
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.dev.json
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ref\JardineriaGrupo.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Humanizer.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.CodeDom.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.AssemblyReference.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfoInputs.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfo.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CoreCompileInputs.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.Manifest.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.xml
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\scopedcss\bundle\JardineriaGrupo.styles.css
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.input.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.output.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorCoreGenerate.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Create.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Delete.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Details.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Edit.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Index.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cs
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.Views.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CopyComplete
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\ref\JardineriaGrupo.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.pdb
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.genruntimeconfig.cache
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.dll
+F:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.Development.json
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.json
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.StaticWebAssets.xml
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.exe
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.deps.json
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.json
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.dev.json
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ref\JardineriaGrupo.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.pdb
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.pdb
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Humanizer.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JetBrains.Annotations.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.CodeDom.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.AssemblyReference.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.GeneratedMSBuildEditorConfig.editorconfig
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfoInputs.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfo.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CoreCompileInputs.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.Manifest.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.xml
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\scopedcss\bundle\JardineriaGrupo.styles.css
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.input.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.output.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorCoreGenerate.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Create.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Delete.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Details.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Edit.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Index.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cache
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cs
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.Views.pdb
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CopyComplete
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.dll
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\ref\JardineriaGrupo.dll
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.pdb
+F:\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.genruntimeconfig.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\appsettings.json
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.StaticWebAssets.xml
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.exe
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.deps.json
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.json
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.dev.json
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ref\JardineriaGrupo.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfoInputs.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfo.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CoreCompileInputs.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.Manifest.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.xml
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\scopedcss\bundle\JardineriaGrupo.styles.css
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.input.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.output.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorCoreGenerate.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Create.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Delete.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Details.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Edit.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Index.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cache
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cs
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.Views.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CopyComplete
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\ref\JardineriaGrupo.dll
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.pdb
+C:\Users\Raúl Bienes Pérez\Desktop\JardineriaGrupo\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.genruntimeconfig.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\appsettings.Development.json
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\appsettings.json
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.StaticWebAssets.xml
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.exe
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.deps.json
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.json
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.runtimeconfig.dev.json
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ref\JardineriaGrupo.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JardineriaGrupo.Views.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\EntityFramework.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Humanizer.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\JetBrains.Annotations.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.CodeDom.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfoInputs.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.AssemblyInfo.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CoreCompileInputs.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.MvcApplicationPartsAssemblyInfo.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorAssemblyInfo.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.Manifest.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\staticwebassets\JardineriaGrupo.StaticWebAssets.xml
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\scopedcss\bundle\JardineriaGrupo.styles.css
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.input.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.TagHelpers.output.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorCoreGenerate.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Create.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Delete.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Details.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Edit.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\GamaProduct\Index.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.RazorTargetAssemblyInfo.cs
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.Views.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.CopyComplete
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\ref\JardineriaGrupo.dll
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.pdb
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.genruntimeconfig.cache
+E:\DAW\USB\DSW\TareaEVAGD\ProyectoGrupo\NUEVO_FINAL\JardineriaGrupoActualizado-main\JardineriaGrupo\obj\Debug\net5.0\JardineriaGrupo.csproj.AssemblyReference.cache
